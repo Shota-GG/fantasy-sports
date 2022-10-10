@@ -99,6 +99,12 @@
     align-items: center;
     border-radius: 8px;
 }
+.comp {
+    margin-left: 14.8px;
+}
+.wish {
+    margin-left: 14.8px;
+}
 .wishlist {
     width: 464.9px;
     height: 50px;
@@ -146,6 +152,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 20px;
 }
 .blocks {
     width: 460px;
@@ -153,6 +160,7 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
+    padding-top: 21px;
 }
 .details {
     background-color: #191515;
@@ -173,4 +181,125 @@
     align-items: center;
     margin-top: 3px;
 }
-    
+.statsdetails {
+    margin-left: 30px;
+}
+.arrow1 {
+    margin-right: 30.7px;
+}
+.hist {
+    margin-left: 30px;
+}
+.arrow2 {
+    margin-right: 30.7px;
+}
+.highlights {
+    width: 1024px;
+    height: 72px;
+    background-color: #E7E2E1;
+}
+.high {
+    padding-top: 30px;
+    margin-left: 30px;
+}
+.cards {
+    width: 1024px;
+    height: 373px;
+    background-color: #E7E2E1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+}
+.out {
+    width: 199px;
+    height: 332px;
+    background-color: #AA4F4D;
+}
+.p17 {
+    font-size: 11px;
+    padding-top: 37px;
+    margin-left: 29px;
+    color: #EAA197;
+}
+.p18 {
+    width: 142.5px;
+    height: 73px;
+    font-size: 18px;
+    margin-top: 16px;
+    margin-left: 29px;
+    color: #FFFFFF;
+}
+.inj {
+    margin-top: 43px;
+    margin-left: 48px;
+}
+.scored {
+    width: 199px;
+    height: 332px;
+    background-color: #AA4F4D;
+}
+.p19 {
+    font-size: 11px;
+    padding-top: 37px;
+    margin-left: 29px;
+    color: #EAA197;
+}
+.p20 {
+    width: 142.5px;
+    height: 73px;
+    font-size: 18px;
+    margin-top: 16px;
+    margin-left: 29px;
+    color: #FFFFFF;
+}
+.scor {
+    margin-top: 43px;
+    margin-left: 48px;
+}
+.named {
+    width: 199px;
+    height: 332px;
+    background-color: #AA4F4D;
+}
+.p21 {
+    font-size: 11px;
+    padding-top: 37px;
+    margin-left: 29px;
+    color: #EAA197;
+}
+.p22 {
+    width: 142.5px;
+    height: 73px;
+    font-size: 18px;
+    margin-top: 16px;
+    margin-left: 29px;
+    color: #FFFFFF;
+}
+.award {
+    margin-top: 43px;
+    margin-left: 66px;
+}
+.claimed {
+    width: 199px;
+    height: 332px;
+    background-color: #AA4F4D;
+}
+.p23 {
+    font-size: 11px;
+    padding-top: 37px;
+    margin-left: 29px;
+    color: #EAA197;
+}
+.p24 {
+    width: 142.5px;
+    height: 73px;
+    font-size: 18px;
+    margin-top: 16px;
+    margin-left: 29px;
+    color: #FFFFFF;
+}
+.tran {
+    margin-top: 43px;
+    margin-left: 32.2px;
+}
